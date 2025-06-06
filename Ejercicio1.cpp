@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    int temperatura;
+    int temperatura; 
 
     cout<<"Ingrese la temperatura en grados Celcius";
     cin>>temperatura;
@@ -17,7 +17,7 @@ int main(){
     
 
     }else{
-cout<<"La temperatura en donde se encuentra esta caliente";
+cout<<"La temperatura en donde se encuentra esta caliente.";
     }
 
 
